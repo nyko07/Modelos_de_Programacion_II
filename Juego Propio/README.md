@@ -20,7 +20,7 @@ El juego terminara cuando Juan deje caer la pelota en el campo.
 </p>
 
 ## Screenshot
-![Alt text](/master/Juego Propio/HeadGame21.jpg "Head Game")
+![Alt text](/master/Juego Propio/HeadGame21.jpg?raw="true" "Head Game")
 
 
 ### Integrantes:
