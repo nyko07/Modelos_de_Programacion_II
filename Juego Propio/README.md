@@ -8,10 +8,15 @@ Pero lamentablemente mis compañeros son demasiado buenos para mi y por esto cua
 ¡Ayúdame a entrenar para poder entrar al equipo titular y demostrar mis capacidades futbolísticas! 
 </p>
 
-## En que consiste
-
+### ¿En que consiste?:
 <p>
+El juego consiste en no dejar caer el balon, para esto deberas mover a juan por el campo de juego dependiendo de la direccion que tome el balon. Ademas de esto deberas tener cuidado, pues dependiendo de la cantidad de dominadas que logre el balon puede tomar direcciones mas dificiles para controlar.
+</p>
 
+### ¿Como funciona ?:
+<p>
+El jugador debera mover a juan por medio de las teclas (a --> izquierda, d---> derecha, w --> saltar). La tecla a selecionar depende de la direccion que tome el balonn y la capacidad que tengamos en ese momento para reaccionar.
+El juego terminara cuando Juan deje caer la pelota en el campo. 
 </p>
 
 ## Screenshot
