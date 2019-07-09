@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+
+    
+    <script src="{{ url_for('static', filename ='js/Juegos/ship/scritpts/kiwi.min.js') }}"></script>
+    <script src="{{ url_for('static', filename ='js/Juegos/ship/scritpts/game.js') }}"></script>
+
+<script>
+    globals = {
+            'back': '{{ url_for("static", filename="js/Juegos/ship/images/back.jpg") }}',
+            'enemy': '{{ url_for("static", filename="js/Juegos/ship/images/enemy.png") }}',
+            'enemy_shoot': '{{ url_for("static", filename="js/Juegos/ship/images/enemy_shoot.png") }}',
+            'player': '{{ url_for("static", filename="js/Juegos/ship/images/player.PNG") }}',
+            'ship': '{{ url_for("static", filename="js/Juegos/ship/images/ship.png") }}',
+            'shoot': '{{ url_for("static", filename="js/Juegos/ship/images/shoot.png") }}',
+
+        }
+
+</script>
+
+
+
+</body>
+</html>
