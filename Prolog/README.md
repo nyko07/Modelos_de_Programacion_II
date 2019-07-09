@@ -1,9 +1,9 @@
-# Laberinto
+# Programación lógica PROLOG
 
-## Solución de un laberinto por medio de árboles n-arios
+## Ejercicio programación lógica
 
 <p>
-Se realiza un programa en python con programación funcional, en donde se determina si un laberinto tiene o no solución por medio de la elaboración de árboles n-arios, tomando cada rama del árbol como un camino posible hasta la solución.
+Se realiza un ejercicio de programación lógica con PROLOG en donde se realiza el arbol genealógico hasta la cuarta generación. Se suben tres códigos con el árbol genealógico de los tres integrantes.
 </p>
 
 ### Integrantes:
